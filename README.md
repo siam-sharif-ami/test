@@ -1,1 +1,1 @@
-test password changed '123456'
+test password changed '12345678'
