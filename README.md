@@ -1,1 +1,1 @@
-reset password to '12345678'
+reset password to nil
