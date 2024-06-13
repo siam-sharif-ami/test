@@ -1,2 +1,1 @@
-
-test password changed "siam" 
+reset password to '123456'
