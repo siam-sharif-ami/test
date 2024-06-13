@@ -1,1 +1,1 @@
-reset password to '123456'
+reset password to '12345678'
